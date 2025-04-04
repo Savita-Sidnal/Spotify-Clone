@@ -1,6 +1,6 @@
 # 🎵 Spotify Web UI Clone
 
-Static front-end clone of the Spotify Web Player interface. Built using HTML, CSS, and Font Awesome, this project replicates the layout and functionality of Spotify’s player without actual music streaming functionality.
+Static front-end clone of the Spotify Web Player interface. Built using HTML, CSS, this project replicates the layout and functionality of Spotify’s player without actual music streaming functionality.
 
 ## 📸 Demo
 
@@ -14,8 +14,7 @@ Static front-end clone of the Spotify Web Player interface. Built using HTML, CS
 - 📈 Sections like Recently Played, Trending, and Featured Charts
 - 🧭 Sticky navigation bar with Install and Premium buttons
 - ✅ Fully responsive layout for large and medium screens
-- 🖼 Custom CSS styling inspired by Spotify's dark theme
-
+- 
 ---
 
 ## 🛠️ Tech Stack
@@ -24,4 +23,5 @@ Static front-end clone of the Spotify Web Player interface. Built using HTML, CS
 - **CSS3** – Styling and responsive design
 - **Font Awesome** – Icons used in nav, player, etc.
 - **Google Fonts** – 'Montserrat' font family
+- **Bootstrap** - customized CSS styling
 
