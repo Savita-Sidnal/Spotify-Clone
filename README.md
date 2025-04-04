@@ -14,7 +14,6 @@ Static front-end clone of the Spotify Web Player interface. Built using HTML, CS
 - 📈 Sections like Recently Played, Trending, and Featured Charts
 - 🧭 Sticky navigation bar with Install and Premium buttons
 - ✅ Fully responsive layout for large and medium screens
-- 
 ---
 
 ## 🛠️ Tech Stack
